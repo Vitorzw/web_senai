@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.text-black {
+    color: white;
+    background-color: red;
+    display: inline ;
+    font-size: 36px;
+}
+
+body {
+    background-color: black;
+}

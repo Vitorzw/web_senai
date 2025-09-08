@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    color: black;
+
+ul {
+    background-color: white;
+}
+}
+
+.text-verde {
+    color: green;
+    background-color: dimgray;
+    font-size: 38px;
+}
+
+.text-red {
+    color: red;
+    background-color: dimgray;
+    font-size: 38px;
+    text-align: center;
+}
+
+.text-blue {
+    color: blue;
+    background-color: dimgray;
+    font-size: 38px;
+    text-align: right;
+}
+
+.text-roxo {
+    color: blueviolet;
+    background-color: dimgray;
+    font-size: 38px;
+    text-align: center;
+}
+
+.text-amarelo {
+    color: yellow;
+    background-color: dimgray;
+    font-size: 38px;
+}
+
+.text-rosa {
+    color: deeppink;
+    background-color: dimgray;
+    font-size: 38px;
+    text-align: center;
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+}

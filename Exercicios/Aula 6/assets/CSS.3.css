@@ -1,0 +1,88 @@
+h1 {
+    text-align: center;
+    color: black;
+
+ul {
+    background-color: white;
+}
+}
+
+.text-verde {
+    color: green;
+    background-color: dimgray;
+    font-size: 38px;
+}
+.text-verde:hover {
+    color: black;
+    background-color: white;
+    font-size: 38px;
+    text-align: left;
+}
+
+.text-red {
+    color: red;
+    background-color: dimgray;
+    font-size: 38px;
+    text-align: center;
+}
+.text-red:hover {
+    color: black;
+    background-color: white;
+    font-size: 38px;
+    text-align: left;
+}
+
+.text-blue {
+    color: blue;
+    background-color: dimgray;
+    font-size: 38px;
+    text-align: right;
+}
+.text-blue:hover {
+    color: black;
+    background-color: white;
+    font-size: 38px;
+    text-align: left;
+}
+
+.text-roxo {
+    color: blueviolet;
+    background-color: dimgray;
+    font-size: 38px;
+    text-align: center;
+}
+.text-roxo:hover {
+    color: black;
+    background-color: white;
+    font-size: 38px;
+    text-align: left;
+}
+
+.text-amarelo {
+    color: yellow;
+    background-color: dimgray;
+    font-size: 38px;
+}
+.text-amarelo:hover {
+    color: black;
+    background-color: white;
+    font-size: 38px;
+    text-align: left;
+}
+
+.text-rosa {
+    color: deeppink;
+    background-color: dimgray;
+    font-size: 38px;
+    text-align: center;
+}
+.text-rosa:hover {
+    color: black;
+    background-color: white;
+    font-size: 38px;
+    text-align: left;
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+}
